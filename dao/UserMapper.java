@@ -1,5 +1,3 @@
-组员：李少杰
-在线考试平台
 package com.qcby.dao;
 
 import com.qcby.entity.User;
@@ -21,4 +19,3 @@ public interface UserMapper {
 
     List<User> findList(User user);
 }
-
